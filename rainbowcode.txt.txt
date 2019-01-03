@@ -3,4 +3,5 @@ Step Left
 Step RIght
 Turn Around
 Raise your hand
+Move your right leg together
 And dance like its no tomorrow
